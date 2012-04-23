@@ -1,0 +1,2 @@
+####plugin
+a firefox plugin
